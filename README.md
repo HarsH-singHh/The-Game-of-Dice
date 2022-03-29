@@ -17,4 +17,4 @@
   To install python https://www.python.org/downloads/.
  
  # Running the game
-  Compile and run the code, use terminal to give input and for checkng the output.
+  Compile and run the code, use the terminal to give input and check the output.
