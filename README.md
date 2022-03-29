@@ -15,6 +15,7 @@
  
  # For setup
   To install python https://www.python.org/downloads/.
+  Installation is required only if running on any code editor on the local machine or else any online compiler will work.
  
  # Running the game
   Compile and run the code, use the terminal to give input and check the output.
