@@ -13,9 +13,13 @@
   - If a player rolls the value "1" two consecutive times then they are forced to skip their next turn
   as a penalty.
  
+ # Compatibilty
+  Python version 3.0 and above.
+ 
  # For setup
-  To install python https://www.python.org/downloads/.
+  To install python https://www.python.org/downloads/
   Installation is required only if running on any code editor on the local machine or else any online compiler will work.
+  Online compiler https://www.onlinegdb.com/online_python_compiler
  
  # Running the game
   Compile and run the code, use the terminal to give input and check the output.
